@@ -23,6 +23,6 @@ for (let i = 2; i >= 0; i--) {
 
 alert("You Lose. correct answer was " + randomValue);
 
-e.target.disabled = true;//need to be corrected
+e.target.disabled = true;//need to be corrected.
 
 }
